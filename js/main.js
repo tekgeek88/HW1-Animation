@@ -277,7 +277,7 @@ class EntityAnimated2 extends Entity {
 
 
 AM.queueDownload("./img/background.png");
-AM.queueDownload('./img/mushroomdude.png');
+// AM.queueDownload('./img/mushroomdude.png');
 // AM.queueDownload('./img/rougue_run_forward.png');
 AM.queueDownload('./img/rogue like attack animations.png');
 
